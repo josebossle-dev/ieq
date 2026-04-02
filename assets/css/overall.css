@@ -20,3 +20,19 @@
             height: 100%;
             object-fit: contain;
         }
+
+
+        #form-sct-sobre-nos{
+            background-color: var(--color-ieq-blue);
+            padding: 2rem;
+
+          
+        }
+
+       #btn-enviar-sct-sobre{
+            background-color: var(--color-ieq-red);
+            
+        }
+          
+
+       
